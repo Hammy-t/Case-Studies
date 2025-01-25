@@ -1,2 +1,2 @@
 # Case-Studies
-This repository contains case studies documenting my user research and design process.
+🕵🏾‍♀️Welcome to my world of curiosity-fueled investigations, where I channel my inner detective to uncover user pain points and craft better user experiences! This repo is my investigative journal of UX/UI case studies—diving into user frustrations, pain points, and strategies to enhance user experiences. From exploring pre-existing platforms to perfecting prototypes designed by yours truly, this is where I document my process. Grab a chair, get comfy, and explore! 😊"
