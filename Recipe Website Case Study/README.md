@@ -68,7 +68,7 @@ After the tasks, participants rated the site on a scale of 1 to 5 (1 = Strongly 
 ### **2. Dish Names and Cultural Accessibility**
 - **Insight**: Non-Nigerian participants struggled with unfamiliar dish names, which made it harder for them to choose recipes.
 - **Recommendation**:
-  - Add short descriptions or images next to dish names to help users understand what they’re looking at.
+  - Add short descriptions to dish names to help users understand what they’re looking at.
   - Consider grouping dishes by type (e.g., "Spicy," "Vegetarian") to make browsing easier.
 
 ### **3. Blog and Recipe Separation**
