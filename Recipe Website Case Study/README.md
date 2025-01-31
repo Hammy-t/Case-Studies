@@ -77,10 +77,9 @@ After the tasks, participants rated the site on a scale of 1 to 5 (1 = Strongly 
   - Reverse the order so the blog appears before the recipe. This could encourage users to read the blog before diving into the recipe.
 
 ### **4. Visual Design and Layout**
-- **Insight**: While the site was visually appealing, some participants felt the sign-up page design was random, and the font choice was inconsistent.
+- **Insight**: While the site was visually appealing, some participants felt the sign-up page design was random.
 - **Recommendation**:
   - Revisit the sign-up page design to make it more cohesive with the rest of the site.
-  - Standardize the font to ensure consistency across all pages.
 
 ### **5. Spacing and Content Perception**
 - **Insight**: Excessive white space led some participants to believe there were fewer recipes available than there actually were.
